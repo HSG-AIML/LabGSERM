@@ -1,4 +1,4 @@
-# GSERM Course: Deep Learning: Fundamentals and Applications
+# GSERM Course - Deep Learning: Fundamentals and Applications
 
 This repository features a series of interactive Jupyter Notebooks for the Summer 2021 lab course accompanying the 
 GSERM *Deep Learning: Fundamentals and Applications* course, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Korbinian Riedhammer** at the University of St. Gallen (HSG).
