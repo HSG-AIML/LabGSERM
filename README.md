@@ -15,16 +15,17 @@ Happy coding,
 Your GSERM teaching team 
 
 ---
-| Lab           |Date                 |  Topic                            |  Lab Notebook                       | Exercise Notebook |
-|:-------------:|:-------------------:|:---------------------------------:|:-----------------------------------:|:-------:|
-|00|  Prerequisite	 | Testing the Notebook Environment | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_00%2Flab_00.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_00/lab_00.ipynb) | - |
-|01|  Prerequisite	 | Introduction to the Lab Environment | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_01%2Flab_01.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_01/lab_01.ipynb) | - |
-|02|  Prerequisite	 | Fundamentals of Python Programming | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_02%2Flab_02.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_02/lab_02.ipynb) | - |
+| Lab           |Date                 |  Topic                            |  Binder Launcher(s) | Colab Launcher(s) |
+|:-------------:|:-------------------:|:---------------------------------:|:-------------------:|:-----------------:|
+|00|  Prerequisite	 | Testing the Notebook Environment | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_00%2Flab_00.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_00/lab_00.ipynb) |
+|01|  Prerequisite	 | Introduction to the Lab Environment | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_01%2Flab_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_01/lab_01.ipynb) |
+|02|  Prerequisite	 | Fundamentals of Python Programming | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_02%2Flab_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_02/lab_02.ipynb) |
 |03|  21. June | Support Vector Machines and Naive Bayes |  |  |
-|04|  22. June	 | Artificial Neural Nets (ANNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_04%2Flab_04.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_04/lab_04.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_04%2Flab_04_exercises.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_04/lab_04_exercises.ipynb) |
-|05|  23. June	 | Convolutional Neural Nets (CNNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_05%2Flab_05.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_05/lab_05.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_05%2Flab_05_exercises.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_05/lab_05_exercises.ipynb) |
-|06|  23. June	 | Autoencoder Neural Nets (AENNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_06%2Flab_06.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_06/lab_06.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_06%2Flab_06_exercises.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_06/lab_06_exercises.ipynb) |
-|09|  25. June	 | Recurrent Neural Nets (RNNs) - Timeseries |  |  |
+|04|  22. June	 | Artificial Neural Nets (ANNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_04%2Flab_04.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_04/lab_04.ipynb) |
+|05|  23. June	 | Convolutional Neural Nets (CNNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_05%2Flab_05.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_05/lab_05.ipynb) |
+|06|  23. June	 | Autoencoder Neural Nets (AENNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_06%2Flab_06.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_06/lab_06.ipynb) |
+|07|  24. June	 | NLP - BERT |  |  |
+|08|  25. June	 | NLP - Sentiment |  |  |
 
 ---
 
@@ -53,7 +54,11 @@ free of charge (this will be an interesting feature for the coding challenge.)
 
 If you need help running Python and/or Jupyter Notebooks, please don't hesitate to contact us (see below)!
 
+## Further Links
 
+Python and Jupyter Notebook Installation: [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/HSG-AIML/LabGSERM/blob/main/ml_installation_guide.pdf)
+
+Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/HSG-AIML/LabML)
 
 ## Questions?
 
