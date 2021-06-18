@@ -1,14 +1,14 @@
 ![Course Banner](banner.png)
 
-This repository features a series of interactive Jupyter Notebooks for the Summer 2021 lab course accompanying the GSERM **Deep Learning: Fundamentals and Applications** course, taught by **Prof. Dr. Damian Borth** and **Prof. Dr. Korbinian Riedhammer** at the University of St. Gallen (HSG).
+This repository features a series of interactive Jupyter Notebooks for the Summer 2021 lab course accompanying the GSERM **Deep Learning: Fundamentals and Applications** course, taught by **Prof. Dr. Damian Borth**, **Prof. Dr. Korbinian Riedhammer** and **Marco Schreyer (TA)** at the University of St. Gallen (HSG). 
 
 The objective of this course is to teach deep learning fundamentals and their application to real-world use cases.
 
 This is currently work in progress so expect minor errors and some rough edges ;)
 
-Happy coding,
+Happy learning and coding,
 
-Your GSERM teaching team 
+Your AI:ML teaching team 
 
 ---
 | Lab           |Date                 |  Topic                            |  Binder Launcher(s) | Colab Launcher(s) |
