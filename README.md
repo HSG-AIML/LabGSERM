@@ -21,11 +21,11 @@ Your GSERM teaching team
 |01|  Prerequisite	 | Introduction to the Lab Environment | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_01%2Flab_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_01/lab_01.ipynb) |
 |02|  Prerequisite	 | Fundamentals of Python Programming | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_02%2Flab_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_02/lab_02.ipynb) |
 |03|  21. June | Support Vector Machines and Naive Bayes |  |  |
-|04|  22. June	 | Artificial Neural Nets (ANNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_04%2Flab_04.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_04/lab_04.ipynb) |
-|05|  23. June	 | Convolutional Neural Nets (CNNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_05%2Flab_05.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_05/lab_05.ipynb) |
-|06|  23. June	 | Autoencoder Neural Nets (AENNs) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_06%2Flab_06.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_06/lab_06.ipynb) |
-|07|  24. June	 | NLP - BERT |  |  |
-|08|  25. June	 | NLP - Sentiment |  |  |
+|04|  22. June	 | Artificial Neural Nets (ANNs) |  |  |
+|05|  23. June	 | Convolutional Neural Nets (CNNs) |  |  |
+|06|  23. June	 | Autoencoder Neural Nets (AENs) |  |  |
+|07|  24. June	 | Recurrent Neural Nets (RNNs)|  |  |
+|08|  25. June	 | Attention Neural Nets |  |  |
 
 ---
 
