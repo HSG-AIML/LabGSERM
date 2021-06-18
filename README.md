@@ -1,6 +1,6 @@
 ![Course Banner](banner.png)
 
-This repository features a series of interactive Jupyter Notebooks of the GSERM Summer School 2021 lab course 
+This repository features a series of interactive Jupyter Notebooks of the **GSERM Summer School '21** lab course 
 
 **10,831,1.00 Deep Learning: Fundamentals and Applications,** 
 
@@ -10,7 +10,7 @@ This repository is currently work in progress so expect minor errors and some ro
 
 Happy learning and coding,
 
-Your AI:ML teaching team 
+**Your GSERM'21 teaching team** 
 
 ---
 | Lab           |Date                 |  Topic                            |  Binder Launcher(s) | Colab Launcher(s) |
