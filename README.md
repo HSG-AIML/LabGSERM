@@ -22,8 +22,8 @@ Happy learning and coding,
 |04|  June, 22nd | Artificial Neural Nets (ANNs) | to be published  | to be published |
 |05|  June, 23rd	 | Convolutional Neural Nets (CNNs) | to be published  | to be published |
 |06|  June, 23rd	 | Autoencoder Neural Nets (AENs) | to be published  | to be published |
-|07|  June, 24th	 | Recurrent Neural Nets (RNNs) | to be published  | to be published |
-|08|  June, 25th	 | Attention Neural Nets | to be published  | to be published |
+|07|  June, 24th	 | Long Short-term Memory Nets (LSTMs) | to be published  | to be published |
+|08|  June, 25th	 | Transformers | to be published  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabGSERM/main?filepath=lab_08%2Flab_08.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabGSERM/blob/main/lab_08/lab_08.ipynb) |
 
 ---
 
